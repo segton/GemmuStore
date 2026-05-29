@@ -2,7 +2,7 @@ A first-person 3D shop simulator built in C++ with Raylib, Jolt Physics, ImGui, 
 
 Key systems:
 - Customer AI and POI navigation
-- Item pickup, inspection, placement, and scanning
+- Item pickup, inspection, placement
 - Seller/buyer transaction flow
 - Day-based shop loop
 - ImGui scene editor tools
